@@ -43,7 +43,7 @@ The article is going to cover what code editor you should use, how to use the te
 
 [<img src="./images/read-article.png"
      alt="Read the article on Code Newbie"
-     height="30">]()
+     height="60">]()
 
 ## Code Editor
 
@@ -59,18 +59,18 @@ Acode is a freemium and open source code editor developed by foxdebug (a.k.a. [A
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://acode.foxdebug.com/)
+     height="60">](https://acode.foxdebug.com/)
 <br>
 [<img src="./images/get-it-on-fdroid.png"
      alt="Get it on F-Droid"
-     height="50">](https://f-droid.org/packages/com.foxdebug.acode/)
+     height="80">](https://f-droid.org/packages/com.foxdebug.acode/)
 [<img src="./images/get-it-on-google-play.png"
      alt="Get it on Google Play"
-     height="50">](https://play.google.com/store/apps/details?id=com.foxdebug.acode)
+     height="80">](https://play.google.com/store/apps/details?id=com.foxdebug.acode)
 <br>
 [<img src="./images/source-code.png"
      alt="Source code"
-     height="30">](https://github.com/deadlyjack/Acode/)
+     height="60">](https://github.com/deadlyjack/Acode/)
 
 ### 2. Spck Editor
 
@@ -82,11 +82,11 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://spck.io/)
+     height="60">](https://spck.io/)
 <br>
 [<img src="./images/get-it-on-google-play.png"
      alt="Get it on Google Play"
-     height="50">](https://play.google.com/store/apps/details?id=io.spck)
+     height="80">](https://play.google.com/store/apps/details?id=io.spck)
 
 ## Terminal
 
@@ -102,15 +102,15 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://termux.com/)
+     height="60">](https://termux.com/)
 <br>
 [<img src="./images/get-it-on-fdroid.png"
      alt="Get it on F-Droid"
-     height="50">](https://f-droid.org/packages/com.termux/)
+     height="80">](https://f-droid.org/packages/com.termux/)
 <br>
 [<img src="./images/source-code.png"
      alt="Source code"
-     height="30">](https://github.com/termux/termux-app)
+     height="60">](https://github.com/termux/termux-app)
 
 ## Browser
 
@@ -124,11 +124,11 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://www.google.com/chrome/)
+     height="60">](https://www.google.com/chrome/)
 <br>
 [<img src="./images/get-it-on-google-play.png"
      alt="Get it on Google Play"
-     height="50">](https://play.google.com/store/apps/details?id=com.android.chrome)
+     height="80">](https://play.google.com/store/apps/details?id=com.android.chrome)
 
 ### 2. Firefox
 
@@ -138,15 +138,15 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://www.mozilla.org/firefox/mobile/)
+     height="60">](https://www.mozilla.org/firefox/mobile/)
 <br>
 [<img src="./images/get-it-on-google-play.png"
      alt="Get it on Google Play"
-     height="50">](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+     height="80">](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 <br>
 [<img src="./images/source-code.png"
      alt="Source code"
-     height="30">](https://github.com/mozilla-mobile/fenix)
+     height="60">](https://github.com/mozilla-mobile/fenix)
 
 ### 3. Brave
 
@@ -156,15 +156,15 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://brave.com/)
+     height="60">](https://brave.com/)
 <br>
 [<img src="./images/get-it-on-google-play.png"
      alt="Get it on Google Play"
-     height="50">](https://play.google.com/store/apps/details?id=com.brave.browser)
+     height="80">](https://play.google.com/store/apps/details?id=com.brave.browser)
 <br>
 [<img src="./images/source-code.png"
      alt="Source code"
-     height="30">](https://github.com/brave/brave-browser)
+     height="60">](https://github.com/brave/brave-browser)
 
 ## Dev Tool
 
@@ -178,11 +178,11 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](https://eruda.liriliri.io/)
+     height="60">](https://eruda.liriliri.io/)
 <br>
 [<img src="./images/source-code.png"
      alt="Source code"
-     height="30">](https://github.com/liriliri/eruda)
+     height="60">](https://github.com/liriliri/eruda)
 
 ## Desktop View
 
@@ -196,4 +196,4 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 [<img src="./images/official-website.png"
      alt="Official website"
-     height="30">](http://responsivetesttool.com)
+     height="60">](http://responsivetesttool.com)
