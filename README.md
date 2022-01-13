@@ -120,6 +120,8 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 <img src="./images/chrome.svg" alt="" height="100">
 
+Google Chrome is without a doubt is the most popular browser. It is free and cross-platform. So, it is a good practice to make sure that your website looks great on Google Chrome.
+
 #### Links
 
 [<img src="./images/official-website.png"
@@ -133,6 +135,8 @@ Spck Editor is free and very powerful, code editor for front-end web development
 ### 2. Firefox
 
 <img src="./images/firefox.webp" alt="" height="100">
+
+Firefox is also a free and cross platform browser, so make sure your website looks good on this browser.
 
 #### Links
 
@@ -151,6 +155,8 @@ Spck Editor is free and very powerful, code editor for front-end web development
 ### 3. Brave
 
 <img src="./images/brave.svg" alt="" height="100">
+
+Brave is a free and open source browser that's also cross platform. You can use it to see your website without JavaScript by simply toogle the `Block Scripts` menu.
 
 #### Links
 
@@ -174,6 +180,8 @@ Spck Editor is free and very powerful, code editor for front-end web development
 
 <img src="./images/eruda-webpage.png" alt="">
 
+Eruda is a developer tool for Android browser. It's free and easy to use.
+
 #### Links
 
 [<img src="./images/official-website.png"
@@ -191,6 +199,8 @@ Spck Editor is free and very powerful, code editor for front-end web development
 ### Responsive Testing Tool
 
 <img src="./images/responsivesitetool-webpage.png" alt="">
+
+This tool will help you to see your website on different resolution.
 
 #### Links
 
