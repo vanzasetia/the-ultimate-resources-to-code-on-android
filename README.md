@@ -37,13 +37,13 @@ The resources that I'm going to show are mainly for front-end web development. B
 
 [(Back to top)](#table-of-contents)
 
-<!-- ![](./images/) -->
+![](./images/article-preview.png)
 
 The article is going to cover what code editor you should use, how to use the terminal, what browser to use, how to implement the dev tool on your project, view your website on multiple screen sizes, and **much more!**
 
 [<img src="./images/read-article.png"
      alt="Read the article on Code Newbie"
-     height="40">]()
+     height="40">](https://community.codenewbie.org/vanzasetia/the-ultimate-guide-to-code-on-android-its-possible-5flo)
 
 ## Code Editor
 
